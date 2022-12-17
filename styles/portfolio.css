@@ -55,7 +55,7 @@ p{
 }
 
 .content-container{
-    padding: 160px 20px;
+    padding: 100px 20px;
 }
 
 .content h1 {
@@ -121,7 +121,6 @@ p{
     .content-container {
         text-align: center;
         padding: 0;
-    
     }
 
     .project-description {
